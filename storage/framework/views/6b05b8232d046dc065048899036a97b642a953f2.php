@@ -1,0 +1,1 @@
+<?php /**PATH C:\Customers\resources\views/agent/index.blade.php ENDPATH**/ ?>
